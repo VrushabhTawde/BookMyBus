@@ -34,7 +34,8 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
 	<ol>
 	
 	<li>#UI HOME PAGE:</li>
-	![image](https://user-images.githubusercontent.com/91945151/236535952-06a8a40a-ee07-44ba-933a-6d1b6b7a895f.png)
+	<img src="https://user-images.githubusercontent.com/91945151/236535952-06a8a40a-ee07-44ba-933a-6d1b6b7a895f.png" alt="logo" width="750" height="auto" />
+	
 	<li>#SEARCH TICKETS:</li>
 	![image](https://user-images.githubusercontent.com/91945151/236536246-6a793d5a-87cb-4aea-b4f2-e9cd5d352859.png)
        <li> #TICKET DETAILS:</li>
