@@ -28,8 +28,11 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
 	</ol>
 </section>
 
+<section>
+	<h2>UI video</h2> 
+	https://youtu.be/D_jVGqKBFQ8
+</section>	
 
-##UI video: https://youtu.be/D_jVGqKBFQ8
 
 
  
