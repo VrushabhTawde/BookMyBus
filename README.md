@@ -27,10 +27,10 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
 		<li>Booking info and confirmation should be sent to passenger and operator.</li>
 	</ol>
 </section>
-![image](https://user-images.githubusercontent.com/91945151/236442134-f75f26eb-4544-499b-a5ea-4f35bc6f4f87.png)
+
 
 <video width="640" height="360" controls>
-  <source src="video.mp4" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1yItMIx0N9Qkk9p-Mrm6157TVRMFvz2l3/view?usp=share_link" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
