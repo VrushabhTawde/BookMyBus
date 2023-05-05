@@ -29,8 +29,27 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
 </section>
 
 <section>
-	<h2>UI video</h2> 
+	<h2>USER UIh2> 
 	https://youtu.be/D_jVGqKBFQ8
+	
+	#UI HOME PAGE:
+	![image](https://user-images.githubusercontent.com/91945151/236535952-06a8a40a-ee07-44ba-933a-6d1b6b7a895f.png)
+	#SEARCH TICKETS:
+	![image](https://user-images.githubusercontent.com/91945151/236536246-6a793d5a-87cb-4aea-b4f2-e9cd5d352859.png)
+        #TICKET DETAILS:
+	![image](https://user-images.githubusercontent.com/91945151/236536385-f4961887-992f-43c3-a4ed-f7b941c923da.png)
+        #SELECT SEATS:
+	![image](https://user-images.githubusercontent.com/91945151/236536531-9aca7c07-27a6-4dbc-867f-fd4d90a2e6d0.png)
+        #ENTER PASSENGERS DETAILS:
+	![image](https://user-images.githubusercontent.com/91945151/236536674-42229b7e-a9df-41cc-aa75-c0a99dc243a3.png)
+        #QR CODE:
+	![image](https://user-images.githubusercontent.com/91945151/236536779-1ef76351-a210-45cf-8f43-176b16cbe2fc.png)
+        #PAYMENT PAGE:
+	![image](https://user-images.githubusercontent.com/91945151/236536937-c5929010-76bf-4ee3-af39-c5cf28d71509.png)
+        #BOOKED TICKETS WITH QR CODE:
+	![image](https://user-images.githubusercontent.com/91945151/236537118-887bbe6a-b6ee-485d-9bdb-3b4a005c8c12.png)
+
+
 </section>	
 
 
