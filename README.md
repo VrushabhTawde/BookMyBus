@@ -29,7 +29,7 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
 </section>
 
 <section>
-	<h2>USER UIh2> 
+	<h2>USER UI<h2> 
 	https://youtu.be/D_jVGqKBFQ8
 	
 	#UI HOME PAGE:
