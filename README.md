@@ -29,10 +29,8 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
 </section>
 
 
-<video width="640" height="360" controls>
-  <source src="https://drive.google.com/file/d/1yItMIx0N9Qkk9p-Mrm6157TVRMFvz2l3/view?usp=share_link" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://drive.google.com/file/d/1yItMIx0N9Qkk9p-Mrm6157TVRMFvz2l3/view?usp=share_link
+ 
 
 
 
