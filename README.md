@@ -58,8 +58,9 @@
 </a>
 
 <a href="https://github.com/varunmh28/Heart-Disease-Prediction/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=varunmh28/Heart-Disease-Prediction" />
 	Varun Mhatre
+  <img src="https://contrib.rocks/image?repo=varunmh28/Heart-Disease-Prediction" />
+	
 </a>
 
 <a href="https://github.com/Shruti-Koppisetty/Shruti-Koppisetty/graphs/contributors">
