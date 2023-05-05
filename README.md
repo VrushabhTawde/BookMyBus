@@ -29,7 +29,7 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
 </section>
 
 
-	<h2>USER UI https://youtu.be/D_jVGqKBFQ8</h2> 
+	USER UI https://youtu.be/D_jVGqKBFQ8
 	
 	                                #UI HOME PAGE
 	<img src="https://user-images.githubusercontent.com/91945151/236535952-06a8a40a-ee07-44ba-933a-6d1b6b7a895f.png" alt="logo" width="750" height="auto" />
