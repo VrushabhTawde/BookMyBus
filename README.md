@@ -58,14 +58,14 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
 
 
 <section>
-	<h3>ADMIN PANEL</h3>
-	<h2>ADMIN HOME UI</h2>
+	<h2>ADMIN PANEL</h2>
+	<h3>ADMIN HOME UI</h3>
 	 <img src="https://user-images.githubusercontent.com/91945151/236542771-d69f0f17-aa62-44ea-a72c-0228926cb409.png" alt="logo" width="750" height="auto" />
-	<h2>ADD AND MANAGE BUS</h2>
+	<h3>ADD AND MANAGE BUS</h3>
 	<img src="https://user-images.githubusercontent.com/91945151/236543024-a67a0b5a-387d-4a29-920d-7dcaafce67e4.png" alt="logo" width="750" height="auto" />
-	<h2>MANAGE TERNIMAL</h2>
+	<h3>MANAGE TERNIMAL</h3>
 	<img src="https://user-images.githubusercontent.com/91945151/236543024-a67a0b5a-387d-4a29-920d-7dcaafce67e4.png" alt="logo" width="750" height="auto" />
-	<h2>SCHEDULE BUS</h2>
+	<h3>SCHEDULE BUS</h3>
 	<img src="https://user-images.githubusercontent.com/91945151/236543585-7ea29a4d-56c4-4e9b-8252-ae968ac2e2d4.png" alt="logo" width="750" height="auto" />
 </section>
  
