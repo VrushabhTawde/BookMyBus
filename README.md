@@ -43,40 +43,40 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
 
 <a href="https://github.com/VrushabhTawde/BookMyEvent/graphs/contributors">
 <!--   <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyBus" alt="logo" width="150" height="auto" /> -->
-  <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyBus" alt="logo" width="90"height="auto"/>
-   <p>Contributor 1</p>
+  <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyEvent" alt="logo" width="90"height="auto"/>
+
 
  
 </a>
 
 <a href="https://github.com/varunmh28/Heart-Disease-Prediction/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=varunmh28/Heart-Disease-Prediction" />
-   <p>Contributor 1</p>
+
 </a>
 
 <a href="https://github.com/Shruti-Koppisetty/Shruti-Koppisetty/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Shruti-Koppisetty/Shruti-Koppisetty" />
-   <p>Contributor 1</p>
+
 </a>
 
 <a href="https://github.com/jasvinderxrajput/profile/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jasvinderxrajput/profile" />
-   <p>Contributor 1</p>
+
 </a>
 
 <a href="https://github.com/Tanvi140/A/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Tanvi140/A" />
-   <p>Contributor 1</p>
+
 </a>
 
 <a href="https://github.com/sadhvi022/test/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sadhvi022/test" />
-   <p>Contributor 1</p>
+
 </a>
 
 <a href="https://github.com/harshroy7632/Basic-analysis-on-weather-data/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=harshroy7632/Basic-analysis-on-weather-data" />
-   <p>Contributor 1</p>
+
 </a>
 
 
