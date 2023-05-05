@@ -28,7 +28,7 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
 	</ol>
 </section>
 
-<section>
+
 	<h2>USER UI https://youtu.be/D_jVGqKBFQ8</h2> 
 	
 	                                #UI HOME PAGE
@@ -56,7 +56,6 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
        <img src="https://user-images.githubusercontent.com/91945151/236537118-887bbe6a-b6ee-485d-9bdb-3b4a005c8c12.png" alt="logo" width="750" height="auto" />
 	
 
-</section>	
 
 
 
