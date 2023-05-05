@@ -58,7 +58,7 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
 
 
 <section>
-	<h2>ADMIN PANEL</h2>
+	<h3>ADMIN PANEL</h3>
 	<h2>ADMIN HOME UI</h2>
 	 <img src="https://user-images.githubusercontent.com/91945151/236542771-d69f0f17-aa62-44ea-a72c-0228926cb409.png" alt="logo" width="750" height="auto" />
 	<h2>ADD AND MANAGE BUS</h2>
