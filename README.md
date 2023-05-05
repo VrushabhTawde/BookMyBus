@@ -62,6 +62,7 @@
   <img src="https://contrib.rocks/image?repo=varunmh28/Heart-Disease-Prediction" />
 	
 </a>
+Varun Mhatre
 
 <a href="https://github.com/Shruti-Koppisetty/Shruti-Koppisetty/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Shruti-Koppisetty/Shruti-Koppisetty" />
