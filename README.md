@@ -55,10 +55,10 @@
 	
 	
  
-</a>
+
 
 <a href="https://github.com/varunmh28/Heart-Disease-Prediction/graphs/contributors">
-	Varun Mhatre
+
   <img src="https://contrib.rocks/image?repo=varunmh28/Heart-Disease-Prediction" />
 	
 </a>
