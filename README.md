@@ -62,7 +62,18 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
 	#ADMIN HOME UI
 	 <img src="https://user-images.githubusercontent.com/91945151/236542771-d69f0f17-aa62-44ea-a72c-0228926cb409.png" alt="logo" width="750" height="auto" />
 	#ADD AND MANAGE BUS
-	![image](https://user-images.githubusercontent.com/91945151/236543024-a67a0b5a-387d-4a29-920d-7dcaafce67e4.png)
+	<img src="https://user-images.githubusercontent.com/91945151/236543024-a67a0b5a-387d-4a29-920d-7dcaafce67e4.png" alt="logo" width="750" height="auto" />
+	#MANAGE TERNIMAL
+	<img src="https://user-images.githubusercontent.com/91945151/236543024-a67a0b5a-387d-4a29-920d-7dcaafce67e4.png" alt="logo" width="750" height="auto" />
+	
+	#SCHEDULE BUS
+	<img src="https://user-images.githubusercontent.com/91945151/236543585-7ea29a4d-56c4-4e9b-8252-ae968ac2e2d4.png" alt="logo" width="750" height="auto" />
+	
+	
+
+
+	
+	
 
 
 </section>
