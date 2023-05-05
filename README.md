@@ -59,6 +59,7 @@
 
 <a href="https://github.com/varunmh28/Heart-Disease-Prediction/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=varunmh28/Heart-Disease-Prediction" />
+	Varun Mhatre
 </a>
 
 <a href="https://github.com/Shruti-Koppisetty/Shruti-Koppisetty/graphs/contributors">
@@ -76,9 +77,9 @@
 <a href="https://github.com/sadhvi022/test/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sadhvi022/test" />
 </a>
-
+<!-- 
 <a href="https://github.com/harshroy7632/Basic-analysis-on-weather-data/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=harshroy7632/Basic-analysis-on-weather-data" />
 </a>
-
+ -->
 
