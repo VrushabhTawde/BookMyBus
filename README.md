@@ -43,16 +43,16 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
                                         #SELECT SEATS
        <img src="https://user-images.githubusercontent.com/91945151/236536531-9aca7c07-27a6-4dbc-867f-fd4d90a2e6d0.png" alt="logo" width="750" height="auto" />
 
-                                #ENTER PASSENGERS DETAILS:</li>
+                                #ENTER PASSENGERS DETAILS:
         <img src="https://user-images.githubusercontent.com/91945151/236536674-42229b7e-a9df-41cc-aa75-c0a99dc243a3.png" alt="logo" width="750" height="auto" />
 	
-                                            #QR CODE:
+                                  #QR CODE:
        <img src="https://user-images.githubusercontent.com/91945151/236536779-1ef76351-a210-45cf-8f43-176b16cbe2fc.png" alt="logo" width="750" height="auto" />
 	
-      #PAYMENT PAGE:
-           <img src="https://user-images.githubusercontent.com/91945151/236536937-c5929010-76bf-4ee3-af39-c5cf28d71509.png" alt="logo" width="750" height="auto" />
+                              #PAYMENT PAGE:
+       <img src="https://user-images.githubusercontent.com/91945151/236536937-c5929010-76bf-4ee3-af39-c5cf28d71509.png" alt="logo" width="750" height="auto" />
 	
-     #BOOKED TICKETS WITH QR CODE: 
+                                        #BOOKED TICKETS WITH QR CODE: 
        <img src="https://user-images.githubusercontent.com/91945151/236537118-887bbe6a-b6ee-485d-9bdb-3b4a005c8c12.png" alt="logo" width="750" height="auto" />
 	
 
