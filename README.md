@@ -73,11 +73,11 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
   <img src="https://contrib.rocks/image?repo=sadhvi022/test" />
 
 </a>
-
+<!-- 
 <a href="https://github.com/harshroy7632/Basic-analysis-on-weather-data/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=harshroy7632/Basic-analysis-on-weather-data" />
 
-</a>
+</a> -->
 
 
 <footer>
