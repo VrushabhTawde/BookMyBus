@@ -74,9 +74,9 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
 
 </a> 
 <a href="https://github.com/meghanair02/meghanair02/graphs/contributors">
-  <img src="https://avatars.githubusercontent.com/u/84244320?v=4" />
-
+  <img src="https://contrib.rocks/image?repo=meghanair02/meghanair02" />
 </a>
+
 
 
 <footer>
