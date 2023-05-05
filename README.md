@@ -42,7 +42,7 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
 
 
 <a href="https://github.com/VrushabhTawde/BookMyEvent/graphs/contributors">
-<!--   <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyBus" alt="logo" width="150" height="auto" /> 
+<!--   <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyBus" alt="logo" width="150" height="auto" /> -->
   <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyBus"width="90"height="auto"/>
    <p>Contributor 1</p>
 
