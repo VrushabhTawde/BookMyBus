@@ -31,24 +31,22 @@ https://www.canva.com/design/DAFhrYeMN1o/lOW2Uzry0IrcK6iyROurEw/view?website#2:t
 <section>
 	<h2>USER UI</h2> 
 	https://youtu.be/D_jVGqKBFQ8
-	
-	
-	#UI HOME PAGE:
+	                                #UI HOME PAGE
 	<img src="https://user-images.githubusercontent.com/91945151/236535952-06a8a40a-ee07-44ba-933a-6d1b6b7a895f.png" alt="logo" width="750" height="auto" />
 	
-        #SEARCH TICKETS:
+                                       #SEARCH TICKETS
 	<img src="https://user-images.githubusercontent.com/91945151/236536246-6a793d5a-87cb-4aea-b4f2-e9cd5d352859.png" alt="logo" width="750" height="auto" />
 
-        #TICKET DETAILS:
+                                       #TICKET DETAILS
        <img src="https://user-images.githubusercontent.com/91945151/236536385-f4961887-992f-43c3-a4ed-f7b941c923da.png" alt="logo" width="750" height="auto" />
 	
-   #SELECT SEATS:
+                                        #SELECT SEATS
        <img src="https://user-images.githubusercontent.com/91945151/236536531-9aca7c07-27a6-4dbc-867f-fd4d90a2e6d0.png" alt="logo" width="750" height="auto" />
 
-       #ENTER PASSENGERS DETAILS:</li>
+                                #ENTER PASSENGERS DETAILS:</li>
         <img src="https://user-images.githubusercontent.com/91945151/236536674-42229b7e-a9df-41cc-aa75-c0a99dc243a3.png" alt="logo" width="750" height="auto" />
 	
-    #QR CODE:
+                                            #QR CODE:
        <img src="https://user-images.githubusercontent.com/91945151/236536779-1ef76351-a210-45cf-8f43-176b16cbe2fc.png" alt="logo" width="750" height="auto" />
 	
       #PAYMENT PAGE:
